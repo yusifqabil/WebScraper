@@ -1,2 +1,6 @@
-# WebScraper
-A python script that fetches data using the requests module from a webpage , iterates over pages and parses quotes and their respective authors and uses pandas for data handling by creating a DataFrame then transforming it into a .csv file.
+Python Web Scraper
+This project scrapes product data, news headlines, and user info from multiple pages using Python.
+
+✅ Built with BeautifulSoup and requests
+✅ Handles pagination
+✅ Clean CSV output
